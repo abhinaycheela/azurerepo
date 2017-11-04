@@ -291,6 +291,12 @@
     </Content>
     <None Include="Properties\PublishProfiles\aspDemo1 - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\aspDemo1 - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\northeuropedemo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\northeuropedemo - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\southcentralusdemo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\southcentralusdemo - Web Deploy.pubxml" />
+    <None Include="Properties\PublishProfiles\southindiademo - FTP.pubxml" />
+    <None Include="Properties\PublishProfiles\southindiademo - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
